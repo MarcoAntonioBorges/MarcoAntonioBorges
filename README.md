@@ -1,16 +1,29 @@
-### Hi there 👋
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<!--
-**MarcoAntonioBorges/MarcoAntonioBorges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin: Marco Antônio](https://img.shields.io/badge/-MarcoAntonioBorges-blue?style=flat-square&logo=Linkedin&logoColor=white&link=	)](https://www.linkedin.com/in/marcoantonioborges/)
+[![GitHub Marco](https://img.shields.io/github/followers/MarcoAntonioBorges?label=follow&style=social)](https://github.com/grecolima)
 
-Here are some ideas to get you started:
+Hi, I'm Marco Antônio, a Full Stack Java Developer 🚀 from Brazil. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technology Stack 💻
+
+<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+<img align="left" alt="Spring Boot" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />
+<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Docker" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+<img align="left" alt="Oracle DB2" width="30px" src="https://img.favpng.com/24/1/24/oracle-corporation-oracle-database-computer-icons-computer-software-png-favpng-g8NNMvn99xUHgBEybj9tu90Ya.jpg" />
+<img align="left" alt="Mysql" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="Angular" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
+
+
+<br />
+<br />
+
+### Recent Acitivies ✨
+<center>
+<table>
+  <tr>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoAntonioBorges&hide=html&layout=compact&theme=dark" /></td>
+      <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=MarcoAntonioBorges&theme=dark&show_icons=true" /></td>
+  </tr>  
