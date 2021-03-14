@@ -14,7 +14,7 @@ Hi, I'm Marco Antônio, a Full Stack Java Developer 🚀 from Brazil.
 <img align="left" alt="Oracle DB2" width="50px" src="https://img.favpng.com/24/1/24/oracle-corporation-oracle-database-computer-icons-computer-software-png-favpng-g8NNMvn99xUHgBEybj9tu90Ya.jpg" />
 <img align="left" alt="Mysql" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Angular" width="30px" src="https://toppng.com/uploads/preview/apache-kafka-logo-11563428199khgq3xvb4q.png" />
+<img align="left" alt="Angular" width="30px" src="https://svn.apache.org/repos/asf/kafka/site/logos/originals/png/WIDE%20-%20Black%20on%20Transparent.png" />
 
 
 <br />
