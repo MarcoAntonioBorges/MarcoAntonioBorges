@@ -11,7 +11,7 @@ Hi, I'm Marco Antônio, a Full Stack Java Developer 🚀 from Brazil.
 <img align="left" alt="Spring Boot" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="TypeScript" width="30px" src="https://iconape.com/wp-content/png_logo_vector/typescript.png" />
-<img align="left" alt="Angular" width="80px" height="30px" src="https://brandslogos.com/wp-content/uploads/images/large/angular-logo-1.png"/>
+<img align="left" alt="Angular" width="90px" height="30px" src="https://brandslogos.com/wp-content/uploads/images/large/angular-logo-1.png"/>
 <img align="left" alt="Docker" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="Oracle DB2" width="50px" src="https://img.favpng.com/24/1/24/oracle-corporation-oracle-database-computer-icons-computer-software-png-favpng-g8NNMvn99xUHgBEybj9tu90Ya.jpg" />
 <img align="left" alt="Mysql" width="50px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
